@@ -33,5 +33,6 @@ public class StudentDetails {
 		Main s1 = new Main(id, name);
 
 		s1.display();
+		sc.close();
 	}
 }
